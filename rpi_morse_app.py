@@ -1,7 +1,7 @@
 """
 This project allows morse code to be signaled through an LED and an active buzzer, allowing you to see and hear the morse encoded stuff you write!
 
-A module dependency is needed to convert text into morse code. This module is a single script and can be found here: https://github.com/hexadeci-male/dumptruck/blob/main/python/morse.py
+A module dependency is needed to convert text into morse code. This module is a single script and can be found here: https://github.com/cwylycode/dumptruck/blob/main/python/morse.py
 
 Required parts:
 - RPI 40-pin GPIO

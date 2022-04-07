@@ -3,7 +3,7 @@ This project will play songs in realtime using a tonal (passive) buzzer and will
 
 This script includes ten common songs to play. You can add your own below as long as you follow the structuring. To assist in creating a song, you can use this python script to help make them:
 
-https://github.com/hexadeci-male/dumptruck/blob/main/python/musical_timing_recorder.py
+https://github.com/cwylycode/dumptruck/blob/main/python/musical_timing_recorder.py
 
 Required parts:
 - RPI 40-pin GPIO
